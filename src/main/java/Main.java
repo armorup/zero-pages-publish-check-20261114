@@ -4,6 +4,7 @@ import zero.ui.TextField;
 import zero.ui.Button;
 import zero.ui.Column;
 
+// Main program
 public class Main extends App {
     @Override public void settings() { padding(20); }
 
